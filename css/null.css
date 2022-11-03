@@ -2,7 +2,7 @@
 
 :root {
     --bg-color: #180015;
-    --bg-color-lighter: #250021;
+    --bg-color-lighter: #400038;
     --main-site-color: #D800B5;
     --text-color: #fff; 
 }
@@ -61,7 +61,5 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
     }
 }
 @media screen and (max-width:450px) {
-    html, body {
-        font-size: 3px;
-    }
+
 }

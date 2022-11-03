@@ -224,7 +224,7 @@ html {
 	        justify-content: space-between;
 }
 .edu__venue {
-	font-size: 3rem;
+	font-size: 2rem;
 	font-weight: 500;
 }
 .edu__venue::before {
@@ -236,7 +236,7 @@ html {
 	margin: 0 1rem 0 0;
 }
 .edu__years {
-	font-size: 3rem;
+	font-size: 2rem;
 	font-weight: 500;
 }
 
