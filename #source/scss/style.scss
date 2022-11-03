@@ -421,7 +421,9 @@ html {
 		margin: auto;
 		background-color: white;
 		opacity: 1;
-
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 50% 50%;
 		&::after {
 			content: '';
 			display: block;
